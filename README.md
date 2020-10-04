@@ -1,2 +1,2 @@
 # django-m
-practice
+django data science project
